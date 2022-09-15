@@ -1,0 +1,367 @@
+body{
+    /* overflow-x: hidden; */
+}
+.custom-container{
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+}
+@media (min-width: 1200px) {
+    .custom-container {
+      max-width: 1240px !important;
+    }
+  }
+  .p-width{
+    width: 75%;
+  }
+
+  .custom-bg-color{
+    background-color: #faf8f7;
+  }
+  .noCardBorder .show{
+    background-color: #faf8f7;
+  }
+  .logo-img{
+    font-size: 2.5rem;
+    font-family: serif;
+  }
+  .logo-img span{
+    color: #f3693c;
+    font-size: 6rem;
+    line-height: 0rem;
+    margin-left: -1.2rem;
+  }
+  .nav-ul{
+    list-style-type: none;
+    float: right;
+    display: flex;
+    align-items: center;
+  }
+  .nav-ul li{
+    float: left;
+    margin-right: 1.5rem;
+  }
+  .nav-ul li:last-child{
+    margin-right: 0;
+    text-align: right;
+  }
+  .custom-align{
+    /* align-items: baseline; */
+  }
+  .nav-ul li a{
+    text-decoration: none;
+    font-size: 1.2rem;
+    font-weight: 600;
+    color: #62605e !important;
+  }
+  .top-img{
+    width: 650px;
+    margin-top: -5rem;
+  }
+  .zIndex{
+    z-index: 100;
+display: flex;
+align-items: center;
+}
+.prd-img{
+width: 500px;
+position: absolute;
+right: -140px;
+}
+  .imgCart{
+    border-radius: 50%;
+    background-color: #f3693c;
+    padding: 8px;
+  }
+  .header-title{
+    font-size: 6rem;
+    font-family: serif;
+  }
+  .mt-7{
+    margin-top: 6rem;
+  }
+  .mb-7{
+    margin-bottom: 6rem;
+  }
+  .pt-7{
+    padding-top: 6rem;
+  }
+  .pb-7{
+    padding-bottom: 6rem;
+  }
+  .para-1{
+    color: #62605e;
+    width: 70%;
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+  .para-2{
+    color: #62605e;
+    font-size: 1rem;
+    font-weight: 500;
+  }
+  .para-3{
+    color: #62605e;
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+
+  .btn-1{
+    background-color: #f3693c;
+    color: #fff;
+    border-radius: 30px;
+    font-weight: 700;
+  }
+  .btn-2{
+    background-color: transparent;
+    font-weight: 700;
+  }
+  .btn-3{
+    background-color: transparent;
+    font-weight: 600;
+    border: 1px solid #f3693c;
+    border-radius: 30px;
+    color: #f3693c;
+  }
+  .h-1{
+    font-size: 3.3rem;
+    font-weight: 500;
+    color: #19183a;
+    font-family: serif;
+  }
+  .h-4{
+    font-size: 3.5rem;
+    font-weight: 500;
+    color: #19183a;
+    font-family: serif;
+  }
+  .h-3{
+    font-size: 4rem;
+    font-weight: 500;
+    color: #19183a;
+    font-family: serif;
+
+  }
+  .h-3 span,
+  .h-4 span,
+  .h-1 span{
+    color: #f3693c;
+  }
+  .h-2{
+    font-weight: 600;
+    color: #19183a;
+  }
+  .custom-bg-color-2{
+    background-color: #ffe5de;
+  }
+  .caption{
+    font-size: 1.2rem;
+    font-weight: 600;
+  }
+  .caption span{
+    color: #f3693c;
+    font-size: 3rem;
+    font-weight: 500;
+    font-family: serif;
+
+  }
+  .cardBorder{
+    border-top: 1.5px solid #cab7b5 !important;
+    border-bottom: none !important;
+    padding-left: 0;
+  }
+  .noCardBorder{
+    border: none !important;
+  }
+  .cardBottom{
+    border-bottom: 1.5px solid #cab7b5 !important;
+  }
+  .btn-bold{
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #19183a;
+    padding-left: 0;
+  }
+  .card-body{
+    color: #62605e;
+    font-weight: 500;
+    padding-left: 0;
+  }
+  .bg-white{
+    background-color: #fff;
+    padding: 4rem 0 4rem 4rem;
+  }
+  .para-5{
+    font-weight: 500;
+    color: #19183a;
+    font-size: 2.3rem;
+    font-family: serif;
+  }
+  .bg-3{
+    background-color: #f1e4ef;
+    padding: 12rem 13rem 6rem 15rem;
+  }
+  .para-4{
+    font-weight: 600;
+    color: #19183a;
+    font-size: 1.6rem;
+  }
+  .footer{
+    padding: 12rem 4rem 4rem 4rem;
+    padding-bottom: 0;
+    background-color: #19183a;
+    color: #e1e2eb;
+  }
+  .footer h3{
+    font-size: 1.2rem;
+  }
+  .footer ul{
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+  }
+  .footer ul li{
+    margin-bottom: 1rem;
+  }
+  .footer .para-6{
+    width: 92%;
+    line-height: 2rem;
+  }
+  .footer h3{
+    margin-bottom: 1.8rem;
+    margin-top: 1.5rem;
+  }
+
+  .footer-img{
+    margin-top: 1.4rem;
+  }
+  .footer-img img{
+    margin-right: 1rem;
+  }
+
+  .footer input{
+    background-color: #262653;
+    border: none;
+    padding: 1rem 0 1rem 1rem;
+    border-radius: 20rem;
+    font-size: 1.1rem;
+    width: 100%;
+    color: #6b6983;
+  }
+  .footer input:active,
+  .footer input:focus{
+    border: none !important;
+  }
+  .footer .input-img{
+    position: relative;
+  }
+  .footer .input-img img{
+    border-radius: 50%;
+    background-color: #f3693c;
+    padding: 0.6rem;
+    position: absolute; 
+    top: 5px; 
+    right: 5px;
+    border: 2px solid #fff;
+  }
+  .copyright{
+    width: 50%;
+    margin: 0 auto;
+    border-top: 1px solid #6b6983;
+    color: #6b6983;
+    line-height: 6rem;
+  }
+  .productImage{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 95%;
+    margin-bottom: 2rem;
+  }
+  .productImage img{
+    background-color: #fff;
+    padding: 1rem 0 1rem 0;
+    margin-bottom: 1rem;
+  }
+  .productImage h6{
+    color: #19183a;
+    font-family: serif;
+    font-size: 1.8rem;
+    font-weight: 500;
+  }
+  .img-curve{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.img-4 {
+    clip-path: ellipse(46% 51% at 50% 50%);
+    z-index: 10000;
+    height: 87%;
+    /* position: absolute; */
+    /* left: -260px; */
+    background: #f3693c;
+    /* margin-left: -152px; */
+    border-radius: 30rem;
+}
+.spacing-box{
+    padding: 8rem 0 8rem 8rem;
+}
+.img-5{
+    background: #f3693c;
+    width: 419px;
+    position: absolute;
+    left: -14rem;
+    height: 84%;
+    border-radius: 50%;
+    border: 11px solid #f6f4f0;
+}
+.similarProd{
+    width: 200px;
+    margin-right: 40px;
+}
+.img-6{
+    
+    position: relative;
+    width: 501px;
+    margin-top: 16%;
+    margin-left: 2rem;
+
+}
+.img-curve2{
+    margin-left: -10rem;
+}
+.inquiry{
+    background-color: #fe8159;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 2.5rem 0 2.5rem
+}
+.btn-cust{
+    background-color: #f3764f;
+    padding: 11px;
+    border-radius: 50%;
+}
+.inquiry p{
+    font-size: 1.2rem;
+}
+.custBox{
+    width: 97%;
+    height: 100%;
+}
+.marginBottom{
+    margin-bottom: -10rem;
+}
+.pt-12{
+    padding-top: 12rem;
+}
+.pt-8{
+    padding-top: 8rem;
+}
+.noMargin{
+    margin: 0;
+}
+.btn-link:hover{
+    text-decoration: none !important;
+    color: inherit !important;
+}

@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b6f56d3.css",
+    "main.js": "/static/js/main.b27c8e60.js",
+    "static/js/787.c4c1d37c.chunk.js": "/static/js/787.c4c1d37c.chunk.js",
+    "static/media/pngegg.png": "/static/media/pngegg.e4d79e8768d0ff30258e.png",
+    "static/media/pngegg-3.png": "/static/media/pngegg-3.5b555b79dd8f895b2b4f.png",
+    "static/media/curology.jpeg": "/static/media/curology.2b467a0b5032cf896d40.jpeg",
+    "static/media/Curology.png": "/static/media/Curology.d4f13c128ac5796db3d4.png",
+    "static/media/pngegg-2.png": "/static/media/pngegg-2.d432f9e3105cd7fb368c.png",
+    "static/media/cream.jpeg": "/static/media/cream.fe917af7239fbb12d2e8.jpeg",
+    "static/media/Loreal.png": "/static/media/Loreal.f6971ef8ee225dd6e1d2.png",
+    "static/media/lotion.jpeg": "/static/media/lotion.c5f96e5e564665dd1b06.jpeg",
+    "static/media/the-moisturizer.jpeg": "/static/media/the-moisturizer.379f10d7f3cb29b478d1.jpeg",
+    "static/media/logo-framesi-milan.png": "/static/media/logo-framesi-milan.508b0cdab39c650dcfbb.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.7b6f56d3.css.map": "/static/css/main.7b6f56d3.css.map",
+    "main.b27c8e60.js.map": "/static/js/main.b27c8e60.js.map",
+    "787.c4c1d37c.chunk.js.map": "/static/js/787.c4c1d37c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b6f56d3.css",
+    "static/js/main.b27c8e60.js"
+  ]
+}
